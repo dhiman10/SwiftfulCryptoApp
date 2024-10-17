@@ -15,7 +15,8 @@ Detailed Info: Get detailed information about each coin, including market capita
 
 Dark Mode Support: Full support for iOS Dark Mode.
 
-Technologies Used
+Technologies Used!
+
 SwiftUI: A declarative UI framework for building beautiful user interfaces across all Apple platforms.
 
 Combine: For managing asynchronous events and handling API calls.
@@ -27,9 +28,8 @@ Core Data: Persistent storage for user settings and watchlists.
 
 MVVM Architecture: For clear separation of concerns and better testability.
 
+![IMG_6668](https://github.com/user-attachments/assets/20992b17-c7cf-4155-8f32-8aab2f179448)
+![IMG_6671](https://github.com/user-attachments/assets/8b2f2585-01d9-428c-9606-024d028adc9a)
+[IMG_6670](https://github.com/user-attachments/assets/2a602baa-6b61-4230-889c-eefd2b9b1910)
 
-![IMG_6667](https://github.com/user-attachments/assets/d4f2c4b0-78a8-478f-a85b-8c235388aa83)
-![IMG_6668](https://github.com/user-attachments/assets/a9a06e9f-5bfe-408f-81e0-58af373b3a48)
-![IMG_6671](https://github.com/user-attachments/assets/d80473ed-2009-4576-ba5d-21ed3ac736ce)
-[IMG_6670](https://github.com/user-attachments/assets/1b3ebe05-1c33-48f5-bc01-7dae4113cf32)
 
