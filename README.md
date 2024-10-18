@@ -20,9 +20,12 @@ SwiftfulCryptoApp is a cryptocurrency tracking iOS application built using Swift
 
 ## Screenshots
 
-![IMG_6668](https://github.com/user-attachments/assets/20992b17-c7cf-4155-8f32-8aab2f179448)
-![IMG_6671](https://github.com/user-attachments/assets/8b2f2585-01d9-428c-9606-024d028adc9a)
-![IMG_6670](https://github.com/user-attachments/assets/2a602baa-6b61-4230-889c-eefd2b9b1910)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/20992b17-c7cf-4155-8f32-8aab2f179448" alt="IMG_6668" width="30%" />
+  <img src="https://github.com/user-attachments/assets/8b2f2585-01d9-428c-9606-024d028adc9a" alt="IMG_6671" width="30%" />
+  <img src="https://github.com/user-attachments/assets/2a602baa-6b61-4230-889c-eefd2b9b1910" alt="IMG_6670" width="30%" />
+</div>
+
 
 ## Getting Started
 
